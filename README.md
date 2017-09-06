@@ -12,6 +12,7 @@
 ```
 - make sure docker is running.
 - git clone https://github.com/disastersystems/disaster-recovery.git
+- cd disaster-recovery
 - bash install.sh
 ```
 
